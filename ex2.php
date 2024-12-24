@@ -30,7 +30,7 @@
 
 <body>
     <h1>การเขียนโปรแกรม PHP</h1>
-    664485018 จิรพงษ์ ท้วมพลอย<br>
+    664485036 ฑีฆายุ เปรมสุข<br>
     หมู่เรียน 66/96<br>
    
     <div class="alert alert-info">
@@ -45,10 +45,10 @@
   <br>
 
   <div class="card" style="width:400px">
-  <img class="card-img-top" src="tae1.jpg" alt="Card image">
+  <img class="card-img-top" src="thidxx.jpg" alt="Card image">
   <div class="card-body">
-    <h4 class="card-title">จิรพงษ์ ท้วมพลอย</h4>
-    <p class="card-text">คติประจำใจ : I love GAY </p>
+    <h4 class="card-title">ฑีฆายุ เปรมสุข</h4>
+    <p class="card-text">คติประจำใจ : GMG </p>
     <a href="#" class="btn btn-primary">See Profile</a>
   </div>
 </div>
